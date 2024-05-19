@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fslea\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Quinto Periodo\\Celso - Beck End\\Exercicio-Academia\\Atividade3_Strong_Fit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBB89CB-285B-4A81-9A37-3E2AC44127A7}|Atividade3.csproj|c:\\users\\fslea\\onedrive\\\u00E1rea de trabalho\\faculdade\\quinto periodo\\celso - beck end\\exercicio-academia\\atividade3_strong_fit\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADBB89CB-285B-4A81-9A37-3E2AC44127A7}|Atividade3.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBB89CB-285B-4A81-9A37-3E2AC44127A7}|Atividade3.csproj|c:\\users\\fslea\\onedrive\\\u00E1rea de trabalho\\faculdade\\quinto periodo\\celso - beck end\\exercicio-academia\\atividade3_strong_fit\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBB89CB-285B-4A81-9A37-3E2AC44127A7}|Atividade3.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBB89CB-285B-4A81-9A37-3E2AC44127A7}|Atividade3.csproj|c:\\users\\fslea\\onedrive\\\u00E1rea de trabalho\\faculdade\\quinto periodo\\celso - beck end\\exercicio-academia\\atividade3_strong_fit\\views\\sessions\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADBB89CB-285B-4A81-9A37-3E2AC44127A7}|Atividade3.csproj|solutionrelative:views\\sessions\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBB89CB-285B-4A81-9A37-3E2AC44127A7}|Atividade3.csproj|c:\\users\\fslea\\onedrive\\\u00E1rea de trabalho\\faculdade\\quinto periodo\\celso - beck end\\exercicio-academia\\atividade3_strong_fit\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADBB89CB-285B-4A81-9A37-3E2AC44127A7}|Atividade3.csproj|solutionrelative:views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBB89CB-285B-4A81-9A37-3E2AC44127A7}|Atividade3.csproj|c:\\users\\fslea\\onedrive\\\u00E1rea de trabalho\\faculdade\\quinto periodo\\celso - beck end\\exercicio-academia\\atividade3_strong_fit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBB89CB-285B-4A81-9A37-3E2AC44127A7}|Atividade3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBB89CB-285B-4A81-9A37-3E2AC44127A7}|Atividade3.csproj|c:\\users\\fslea\\onedrive\\\u00E1rea de trabalho\\faculdade\\quinto periodo\\celso - beck end\\exercicio-academia\\atividade3_strong_fit\\controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBB89CB-285B-4A81-9A37-3E2AC44127A7}|Atividade3.csproj|solutionrelative:controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBB89CB-285B-4A81-9A37-3E2AC44127A7}|Atividade3.csproj|c:\\users\\fslea\\onedrive\\\u00E1rea de trabalho\\faculdade\\quinto periodo\\celso - beck end\\exercicio-academia\\atividade3_strong_fit\\views\\sessions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADBB89CB-285B-4A81-9A37-3E2AC44127A7}|Atividade3.csproj|solutionrelative:views\\sessions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBB89CB-285B-4A81-9A37-3E2AC44127A7}|Atividade3.csproj|c:\\users\\fslea\\onedrive\\\u00E1rea de trabalho\\faculdade\\quinto periodo\\celso - beck end\\exercicio-academia\\atividade3_strong_fit\\views\\sessions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADBB89CB-285B-4A81-9A37-3E2AC44127A7}|Atividade3.csproj|solutionrelative:views\\sessions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBB89CB-285B-4A81-9A37-3E2AC44127A7}|Atividade3.csproj|c:\\users\\fslea\\onedrive\\\u00E1rea de trabalho\\faculdade\\quinto periodo\\celso - beck end\\exercicio-academia\\atividade3_strong_fit\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBB89CB-285B-4A81-9A37-3E2AC44127A7}|Atividade3.csproj|solutionrelative:models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBB89CB-285B-4A81-9A37-3E2AC44127A7}|Atividade3.csproj|c:\\users\\fslea\\onedrive\\\u00E1rea de trabalho\\faculdade\\quinto periodo\\celso - beck end\\exercicio-academia\\atividade3_strong_fit\\models\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBB89CB-285B-4A81-9A37-3E2AC44127A7}|Atividade3.csproj|solutionrelative:models\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fslea\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Quinto Periodo\\Celso - Beck End\\Exercicio-Academia\\Atividade3_Strong_Fit\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\fslea\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Quinto Periodo\\Celso - Beck End\\Exercicio-Academia\\Atividade3_Strong_Fit\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowDYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:18:26.251Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\fslea\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Quinto Periodo\\Celso - Beck End\\Exercicio-Academia\\Atividade3_Strong_Fit\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\fslea\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Quinto Periodo\\Celso - Beck End\\Exercicio-Academia\\Atividade3_Strong_Fit\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T22:06:13.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\fslea\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Quinto Periodo\\Celso - Beck End\\Exercicio-Academia\\Atividade3_Strong_Fit\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\fslea\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Quinto Periodo\\Celso - Beck End\\Exercicio-Academia\\Atividade3_Strong_Fit\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T21:42:25.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\fslea\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Quinto Periodo\\Celso - Beck End\\Exercicio-Academia\\Atividade3_Strong_Fit\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\fslea\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Quinto Periodo\\Celso - Beck End\\Exercicio-Academia\\Atividade3_Strong_Fit\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAuwEAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:36:47.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\fslea\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Quinto Periodo\\Celso - Beck End\\Exercicio-Academia\\Atividade3_Strong_Fit\\Views\\Sessions\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sessions\\Login.cshtml",
+              "ToolTip": "C:\\Users\\fslea\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Quinto Periodo\\Celso - Beck End\\Exercicio-Academia\\Atividade3_Strong_Fit\\Views\\Sessions\\Login.cshtml",
+              "RelativeToolTip": "Views\\Sessions\\Login.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T21:16:46.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\fslea\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Quinto Periodo\\Celso - Beck End\\Exercicio-Academia\\Atividade3_Strong_Fit\\Views\\Sessions\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sessions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\fslea\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Quinto Periodo\\Celso - Beck End\\Exercicio-Academia\\Atividade3_Strong_Fit\\Views\\Sessions\\Create.cshtml",
+              "RelativeToolTip": "Views\\Sessions\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T21:16:07.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fslea\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Quinto Periodo\\Celso - Beck End\\Exercicio-Academia\\Atividade3_Strong_Fit\\Views\\Sessions\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sessions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fslea\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Quinto Periodo\\Celso - Beck End\\Exercicio-Academia\\Atividade3_Strong_Fit\\Views\\Sessions\\Index.cshtml",
+              "RelativeToolTip": "Views\\Sessions\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T16:26:59.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\Users\\fslea\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Quinto Periodo\\Celso - Beck End\\Exercicio-Academia\\Atividade3_Strong_Fit\\Models\\Contexto.cs",
+              "RelativeDocumentMoniker": "Models\\Contexto.cs",
+              "ToolTip": "C:\\Users\\fslea\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Quinto Periodo\\Celso - Beck End\\Exercicio-Academia\\Atividade3_Strong_Fit\\Models\\Contexto.cs",
+              "RelativeToolTip": "Models\\Contexto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:14:10.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionsController.cs",
+              "DocumentMoniker": "C:\\Users\\fslea\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Quinto Periodo\\Celso - Beck End\\Exercicio-Academia\\Atividade3_Strong_Fit\\Controllers\\SessionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SessionsController.cs",
+              "ToolTip": "C:\\Users\\fslea\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Quinto Periodo\\Celso - Beck End\\Exercicio-Academia\\Atividade3_Strong_Fit\\Controllers\\SessionsController.cs",
+              "RelativeToolTip": "Controllers\\SessionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:58:14.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\fslea\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Quinto Periodo\\Celso - Beck End\\Exercicio-Academia\\Atividade3_Strong_Fit\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\fslea\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Quinto Periodo\\Celso - Beck End\\Exercicio-Academia\\Atividade3_Strong_Fit\\Models\\Usuarios.cs",
+              "RelativeToolTip": "Models\\Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:51:59.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Treino>
+
+@{
+    ViewBag.Title = "Lista de Treinos";
+}
+
+<h2>@ViewBag.Title</h2>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Aluno</th>
+            <th>Exercícios</th>
+            <th>Data</th>
+            <th>Hora</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var treino in Model)
+        {
+            <tr>
+                <td>@treino.TreinoID</td>
+                <td>@treino.Aluno.Nome</td>
+                <td>
+                    @foreach (var exercicio in treino.Exercicios)
+                    {
+                        <p>@exercicio.Nome</p>
+                    }
+                </td>
+                <td>@treino.Data.ToString("dd/MM/yyyy")</td>
+                <td>@treino.Hora.ToString("HH:mm")</td>
+            </tr>
+        }
+    </tbody>
+</table>
